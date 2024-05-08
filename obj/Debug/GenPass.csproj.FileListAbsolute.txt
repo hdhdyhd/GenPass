@@ -1,0 +1,7 @@
+C:\Users\MSI\source\repos\GenPass\bin\Debug\GenPass.exe.config
+C:\Users\MSI\source\repos\GenPass\bin\Debug\GenPass.exe
+C:\Users\MSI\source\repos\GenPass\bin\Debug\GenPass.pdb
+C:\Users\MSI\source\repos\GenPass\obj\Debug\GenPass.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\GenPass\obj\Debug\GenPass.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\GenPass\obj\Debug\GenPass.exe
+C:\Users\MSI\source\repos\GenPass\obj\Debug\GenPass.pdb
